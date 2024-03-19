@@ -78,7 +78,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'crypto_pj.wsgi.application'
 
-
 # Database
 #your postgres 
 DATABASES = {
