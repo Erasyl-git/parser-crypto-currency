@@ -14,4 +14,4 @@ class CryptoCurrency(models.Model):
     def __str__(self):
         return f'{self.name}|{self.currency}'
     
-    
+    # можете добавить ешё поля если вам надо. так как это тестовый проект то вот такие поля мне нужны
